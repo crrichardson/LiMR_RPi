@@ -31,4 +31,4 @@ while True:
 
 
     r = requests.post(url = API_ENDPOINT, json = data) 
-    time.sleep(1)
+    time.sleep(0.1)
